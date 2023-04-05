@@ -10,6 +10,6 @@ import lombok.*; //상용구(통상적으로 사용되는 코드)
 
 public class Memo {
     private Long mno;
-    private String momoText;
+    private String memoText;
 
 }
