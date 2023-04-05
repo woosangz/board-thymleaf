@@ -11,7 +11,7 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 
-public class Memo {
+public class MemoEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     // Oracle : GenerationType.SEQUENCE, Mysql : GenerationType.IDENTITY
