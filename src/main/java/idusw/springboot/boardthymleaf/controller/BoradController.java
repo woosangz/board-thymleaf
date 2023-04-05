@@ -1,2 +1,4 @@
-package idusw.springboot.boardthymleaf.config;public class BoradController {
+package idusw.springboot.boardthymleaf.controller;
+
+public class BoradController {
 }
